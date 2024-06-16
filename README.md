@@ -11,7 +11,7 @@ Welcome to the **Quiz Assignment** project! This interactive and fun quiz applic
 
 ## 🌟 Live Demo
 
-Check out the live demo of the project deployed on Vercel: [Quiz Assignment Live Demo](https://your-vercel-deployment-link.vercel.app)
+Check out the live demo of the project deployed on Vercel: [Quiz Assignment Live Demo](https://quiz-app-kappa-three-36.vercel.app/)
 
 ## ✨ Features
 
