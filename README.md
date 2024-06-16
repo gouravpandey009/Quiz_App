@@ -94,5 +94,3 @@ Feel free to explore the code and improve it as per your needs! If you have any 
 Happy coding! 🚀
 
 --
-
-You can replace the placeholders (like `https://your-vercel-deployment-link.vercel.app`) with the actual links and update image paths accordingly. This `README.md` should now be more engaging and informative for your GitHub repository.
