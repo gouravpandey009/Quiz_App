@@ -51,8 +51,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 4. **Open your browser** and navigate to [http://localhost:3000](http://localhost:3000)
 
-![Quiz Screenshot](assets/sample3.PNG)
-
+![Quiz Screenshot](assets/sample3.png)
 ## 🛠️ Available Scripts
 
 In the project directory, you can run:
@@ -70,8 +69,8 @@ Deploy this project using Vercel or any other static site hosting service. For d
 
 Here's a sneak peek into the app:
 
-![Quiz Screenshot](assets/sample4.PNG)
-![Quiz Screenshot](assets/sample5.PNG)
+![Quiz Screenshot](assets/sample4.png)
+![Quiz Screenshot](assets/sample5.png)
 
 ## 📚 Learn More
 
