@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "choices": ["HyperText Markup Language", "HyperText Markdown Language", "HyperTool Multi Language", "HyperTool Markup Language"],
+    "answer": "HyperText Markup Language",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "choices": ["<link>", "<a>", "<href>", "<url>"],
+    "answer": "<a>",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the correct syntax to change the background color of a webpage to blue in CSS?",
+    "choices": ["background-color: blue;", "color: blue;", "bg-color: blue;", "background: blue;"],
+    "answer": "background-color: blue;",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following HTTP methods is used to update a resource on a server?",
+    "choices": ["GET", "POST", "PUT", "DELETE"],
+    "answer": "PUT",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the purpose of the `npm` package manager in Node.js?",
+    "choices": ["To install Node.js", "To manage and install packages", "To create new projects", "To run Node.js applications"],
+    "answer": "To manage and install packages",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In React, what is the purpose of using keys in lists?",
+    "choices": ["To identify the DOM elements", "To provide unique identity to elements", "To enhance the performance", "All of the above"],
+    "answer": "All of the above",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the main difference between `let` and `const` in JavaScript?",
+    "choices": ["`let` is block-scoped, `const` is function-scoped", "`let` can be reassigned, `const` cannot be reassigned", "`const` can be reassigned, `let` cannot be reassigned", "No difference, they are interchangeable"],
+    "answer": "`let` can be reassigned, `const` cannot be reassigned",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "How does the Virtual DOM work in React?",
+    "choices": ["It directly manipulates the real DOM", "It creates a virtual representation of the real DOM and updates the real DOM only when necessary", "It bypasses the real DOM completely", "It uses the real DOM as a backup"],
+    "answer": "It creates a virtual representation of the real DOM and updates the real DOM only when necessary",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the purpose of middleware in Express.js?",
+    "choices": ["To handle requests", "To handle responses", "To execute code during the request-response cycle", "All of the above"],
+    "answer": "All of the above",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which design pattern does Redux follow for state management in React applications?",
+    "choices": ["Observer Pattern", "Singleton Pattern", "Flux Pattern", "Module Pattern"],
+    "answer": "Flux Pattern",
+    "difficulty": "Hard"
+  }
+]
